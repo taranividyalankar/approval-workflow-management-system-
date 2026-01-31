@@ -1,4 +1,4 @@
-require("dotenv").config()
+require("dotenv").config();
 const express = require("express") //express is used to create an app
  
 //.env to read variables

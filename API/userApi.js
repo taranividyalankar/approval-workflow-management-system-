@@ -5,7 +5,7 @@ const bcrypt = require("bcrypt") // for password
 const jwt = require("jsonwebtoken")
 
 const User = require("../MODELS/usermodel")
-const secretCode = "1233vdnmb"
+//const secretCode = "1233vdnmb"
 
 
 const router = express.Router()  // as app is created in index.js , to use it here , a varibale callled router is created.
